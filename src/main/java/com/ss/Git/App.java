@@ -18,5 +18,7 @@ public class App
         System.out.println( "Hello World! master refresh" );
         System.out.println( "Hello World! hot-fix refresh" );
         System.out.println( "Hello World! GitHub edit refresh" );
+         System.out.println( "Hello World! GitHub edit refresh22" );
     }
+    
 }
